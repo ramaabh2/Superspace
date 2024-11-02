@@ -6,7 +6,9 @@ const config = {
   },
   users: {
     // You can add multiple users by doing username: 'password'.
-    superspace: 'superspace',
+    super: 'space',
+    medhas: 'issuperdupercool',
+    areebowesme: 'fortnitebattlepass'
   },
 };
 
