@@ -18,6 +18,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Android Games [WORKING]",
+    "link": "https://nowgg.lol/hub",
+    "image": "/assets/media/icons/andgame.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Amazon",
     "link": "https://amazon.com/",
     "image": "/assets/media/icons/amazon.webp",
